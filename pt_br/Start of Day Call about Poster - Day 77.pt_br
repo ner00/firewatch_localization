@@ -1,10 +1,10 @@
 {
   "Henry": "Henry",
   "Thorofare tower, this is Two Forks, calling you for the oh, fiftieth time today.": "Torre de Thorofare, está é Two Forks, Chamando você para o oh, \tquinquagésima vez hoje.",
-  "The Big Fire continues to move in a southerly fashion.": "The Big Fire continues to move in a southerly fashion.",
-  "The Flapjack Fire continues to move in a southerly fashion.": "The Flapjack Fire continues to move in a southerly fashion.",
-  "The June Fire continues to move in a southerly fashion.": "The June Fire continues to move in a southerly fashion.",
-  "The Elk Fire continues to move in a southerly fashion.": "The Elk Fire continues to move in a southerly fashion.",
+  "The Big Fire continues to move in a southerly fashion.": "O Grande Incêndio continua a se mover em direção ao sul",
+  "The Flapjack Fire continues to move in a southerly fashion.": "O fogo Flapjack continua a se mover em direção ao sul",
+  "The June Fire continues to move in a southerly fashion.": "O Fogo de Junho continua a se mover em direção ao sul",
+  "The Elk Fire continues to move in a southerly fashion.": "O fogo de Alce continua a se mover em direção ao sul",
   "Delilah, for fuck’s sake, answer your radio.": "Delilah, pelo amor de Deus, responda seu rádio.",
   "Delilah": "Delilah",
   "Helloooo sunshine! Sorry, I went out for a little bit. What can I do you for?": "Oláaaa raio de luz! Desculpe, eu saí por um momento. O que eu posso fazer por você?",
@@ -30,7 +30,7 @@
   "Uhh… okay.": "Uhh… okay.",
   "By the way, I was wondering if your Flora of the Shoshone info poster was still up inside your tower?": "A propósito, eu gostaria de saber se o seu poster de informações da Flora Shoshone está dentro da sua torre?",
   "…What?": "...Oque?",
-  "It's just protocol that those stay up, you know, info about your tower, the surrounding tree species, etc.": "It's just protocol that those stay up, you know, info about your tower, the surrounding tree species, etc.",
+  "It's just protocol that those stay up, you know, info about your tower, the surrounding tree species, etc.": "É apenas protocolo para que aqueles que ficam ligados, você sabe, informações sobre sua torre, as espécies de árvores ao redor, etc",
   "Uh, alright…?": "Hm, tudo bem...?",
   "Just, you know, have a look at it. Make sure it’s in ship-shape.": "Só, você sabe, dê uma olhada nisso. Certifique-se de que está em forma de navio.",
   "Report poster": "Relatar poster",
@@ -43,10 +43,10 @@
   "Oooh…": "Oooh...",
   "Oh. Yeah. Okay. Maybe I should go for a hike.": "Oh. Sim. OK. Talvez eu deveria ir dar uma caminhada.",
   "Nothing like afternoon in the Rockies, I tell ya.": "Nada como uma tarde nas Montanhas Rochosas, Eu te disse.",
-  "Radio me the moment you get there.": "Radio me the moment you get there.",
+  "Radio me the moment you get there.": "Diga-me o momento que você chegar lá.",
   "Um, which tree am I supposed to “internalize” again?": "Hum, qual árvore eu deveria \"internalizar\" novamente?",
   "Top row, second from the left.": "Linha superior, segunda a partir da esquerda.",
-  "Head to place named after that tree and you’ll have a WONDERFUL afternoon.": "Head to place named after that tree and you’ll have a WONDERFUL afternoon.",
+  "Head to place named after that tree and you’ll have a WONDERFUL afternoon.": "Cabeça no lugar depois de nomear essa árvore você terá uma tarde MARAVILHOSA.",
   "Strange Noise": "Barulho estranho",
   "I just heard something.": "Acabei de ouvir algo.",
   "Report strange noise": "Relatar barulho estranho",
@@ -54,5 +54,5 @@
   "I don't know. It was goddamn terrifying, though.": "Eu não sei. Era malditamente terrível, acho.",
   "Well, it could be an elk or it could be someone trying to get you to radio about a loud noise so they know where you are.": "Bem, poderia ser um alce ou pode ser alguém tentando levá-lo a rádio sobre um ruído alto para que eles saibam onde você está.",
   "Fuck.": "Porra.",
-  "How about you don't do that again.": "How about you don't do that again."
+  "How about you don't do that again.": "Que tal você não fazer isso novamente."
 }

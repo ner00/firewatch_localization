@@ -1259,5 +1259,14 @@
   "MapButton": "MapButton",
   "MapRegionButton": "MapRegionButton",
   "ConfirmButton": "ConfirmButton",
-  "LOADING": "CARGANDO"
+  "LOADING": "CARGANDO",
+  "Special Features": "Special Features",
+  "Hide Interface": "Hide Interface",
+  "Subtitle Language: ": "Subtitle Language:",
+  "Firewatch Audio Tour": "Firewatch Audio Tour",
+  "Play the game with commentary by the team.": "Play the game with commentary by the team.",
+  "Thorofare Free Roam": "Thorofare Free Roam",
+  "Complete Firewatch to unlock Free Roam.": "Complete Firewatch to unlock Free Roam.",
+  "Camera Roll Upload": "Camera Roll Upload",
+  "Complete Firewatch to unlock Uploading.": "Complete Firewatch to unlock Uploading."
 }

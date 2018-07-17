@@ -1,8 +1,8 @@
 {
   "Henry": "Henry",
-  "Do these things have an expiration date?": "Bu şeylerin bir son kullanma tarihi var mı?",
+  "Do these things have an expiration date?": "Bu şeylerin son kullanma tarihi var mı?",
   "Do ropes… expire?": "Halatlar... eskir mi?",
-  "I tracked down that rope; it was right where you said.": "Halatın izini sürdüm; dediğinde haklıydın.",
+  "I tracked down that rope; it was right where you said.": "Halatı buldum; Tam olarak söylediğin yerdeydi.",
   "I found that rope.": "Halatı buldum.",
   "I'm at the cache box.": "Tedarik sandığı'nın oradayım.",
   "Delilah": "Delilah",
@@ -12,7 +12,7 @@
   "Yeah, alright.": "Peki, tamam.",
   "I found the supply box.": "Tedarik sandığı'nı buldum.",
   "Great, you should be set to get down to the lake.": "Güzel, göle inmeye başlamalısın.",
-  "Those boxes are bear proof. I wouldn't worry about it.": "Bu kutular ayı geçirmezler. Bunun hakkında endişelenmemeliyim.",
+  "Those boxes are bear proof. I wouldn't worry about it.": "Bu kutular ayılara dayanıklıdır. Onun hakkında endişelenmem.",
   "It looks a little worse for wear.": "Biraz yıpranmış görünüyor.",
   "A rope's a rope, Hank.": "Halat halattır, Hank.",
   "People just stuff these things with old food? That's how you get bears.": "İnsanlar bu şeyleri sadece eski yiyeceklerle mi doldurur? İşte bu şekilde ayıları çekersin.",
@@ -25,6 +25,6 @@
   "There's a snack in here. I'm probably going to eat it.": "Burada atıştırmalık var. Galiba bunları yiyeceğim.",
   "Hey, a snack!": "Hey, bir atıştırmalık!",
   "So are there a lot of these out in the woods?": "Bunlardan ormanda daha çok mu var peki?",
-  "Where's that?": "Neresi ora?",
+  "Where's that?": "Nerede bu?",
   "Great.": "Güzel."
 }
